@@ -34,8 +34,8 @@
 ## 1.2. Course Detail
 
 1. [LINE group](https://line.me/R/ti/g/G-779Fj8Pw):
-![image](assets/line-grou.jpg)
-
+   
+![image](assets/line-group.jpg)
 
 
 2. Slides on [Moodle]().
