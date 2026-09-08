@@ -1,6 +1,24 @@
 # <center> 2026 Multimedia Wireless Networks (ET5907701) </center>
 
-[TOC]
+- [ 2026 Multimedia Wireless Networks (ET5907701) ](#-2026-multimedia-wireless-networks-et5907701-)
+- [1. Introduction](#1-introduction)
+  - [1.1. Person in Charge](#11-person-in-charge)
+  - [1.2. Course Detail](#12-course-detail)
+  - [1.3 Initial ToDo](#13-initial-todo)
+- [2. Course Outline](#2-course-outline)
+  - [2.1. Objectives](#21-objectives)
+  - [2.2. Schedule](#22-schedule)
+  - [2.3. Evaluation](#23-evaluation)
+  - [2.4. Assignments](#24-assignments)
+    - [Grading criteria — for all assignments and the final presentation](#grading-criteria--for-all-assignments-and-the-final-presentation)
+    - [A1 — Background Study Notes](#a1--background-study-notes)
+    - [A2 — ns-3 Setup \& Traffic Model](#a2--ns-3-setup--traffic-model)
+    - [A3 — Literature Review](#a3--literature-review)
+    - [A4 — Baseline Reproduction](#a4--baseline-reproduction)
+    - [Final Project — Your Modification](#final-project--your-modification)
+- [References](#references)
+- [Samples](#samples)
+
 
 
 # 1. Introduction
@@ -16,7 +34,7 @@
 ## 1.2. Course Detail
 
 1. [LINE group](https://line.me/R/ti/g/G-779Fj8Pw):
-![image](https://hackmd.io/_uploads/B1LAF-h_fg.png)
+![image](assets/line-grou.jpg)
 
 
 
